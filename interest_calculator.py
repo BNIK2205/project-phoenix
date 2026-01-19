@@ -1,2 +1,2 @@
 def calculate_interest(principal, rate):
-    return principal * rate / 100
+    return principal * rate   # BUG: forgot /100
